@@ -6,11 +6,11 @@ git checkout branch_name // switch to another branch
 
 ----------------------
 
-Uploading File
+Uploading File to branch sourabh_work
 
 ---------------------
 
-create file
+create file GitCommands.md
 
 then commands for uploading file :
 1 . git add file_name
